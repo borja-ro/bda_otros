@@ -9,4 +9,5 @@ Carpeta /docker-logs&inspects --> Ejercicios relacionados
 
 Carpeta /docker-redes&volumenes --> Ejercicio RETO3 (kafka / minio / jupyter)
 
+Carpeta /teorema-cap --> Ejercicio RETO04 (teorema cap / mini cassandra)
          
